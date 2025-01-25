@@ -1,5 +1,7 @@
 # Chess App with GenAI
 
+![1737817353301](image/readme/1737817353301.png)
+
 Chess App with GenAI is a web-based application that allows users to play chess against an advanced AI opponent powered by OpenAI's language models. Featuring an interactive chessboard, move validation, and real-time AI move suggestions, this application provides an engaging and challenging experience for chess enthusiasts of all levels.
 
 ## Getting Started
